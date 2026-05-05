@@ -1,4 +1,9 @@
 # Money Simulator
-## CodeBlueJay & Icecreamtree
+## By CodeBlueJay & Icecreamtree
 
-ts so peak 🥹
+### About this project
+Text here
+
+### Files
+`main.py` - Main pygame file
+`requirements.txt` - List of all libraries needed to be installed
